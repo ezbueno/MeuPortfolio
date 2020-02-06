@@ -1,2 +1,2 @@
 # MeuPortfolio
-Portfolio Online de Ezandro Bueno
+Portfólio Online de Ezandro Bueno
